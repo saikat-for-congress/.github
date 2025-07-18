@@ -1,3 +1,6 @@
+![Campaign Logo](logo-light-mode.svg#gh-light-mode-only)
+![Campaign Logo](logo-dark-mode.svg#gh-dark-mode-only)
+
 ## **Campaign Mission**
 
 A new world needs new leaders.
@@ -6,11 +9,11 @@ Saikat Chakrabarti is running for Congress to bring transformational change to t
 
 ### **Our Vision**
 
-* Fight Authoritarianism: Stop the MAGA agenda with bold, effective leadership that understands the anti-Democratic forces we face.  
-* Transform the Democratic Party: Move beyond traditional politics to deliver the change Americans are demanding – we can’t continue to stand by without action.   
-* Economic Justice: Raise living standards & quality of life, for San Franciscans and Americans. Make it easy to make a living again.   
-* Climate Action: Build on the Green New Deal to create comprehensive climate solutions that are good for the planet and the US economy.   
-* New Leadership: After 20+ terms, it's time for fresh voices to correct the direction we are heading. We need representatives that fight for their constituents – not corporate interests.
+* **Fight Authoritarianism**: Stop the MAGA agenda with bold, effective leadership that understands the anti-Democratic forces we face.  
+* **Transform the Democratic Party**: Move beyond traditional politics to deliver the change Americans are demanding – we can’t continue to stand by without action.   
+* **Economic Justice**: Raise living standards & quality of life, for San Franciscans and Americans. Make it easy to make a living again.   
+* **Climate Action**: Build on the Green New Deal to create comprehensive climate solutions that are good for the planet and the US economy.   
+* **New Leadership**: After 20+ terms, it's time for fresh voices to correct the direction we are heading. We need representatives that fight for their constituents – not corporate interests.
 
 ### **Saikat's Experience & Track Record**
 
